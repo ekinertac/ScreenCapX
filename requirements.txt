@@ -1,0 +1,4 @@
+rumps
+pillow
+pyobjc-framework-Quartz
+pynput

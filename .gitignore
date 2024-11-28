@@ -1,0 +1,8 @@
+.DS_Store
+
+.venv
+.eggs
+dist
+build
+
+*.py[cod]
